@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "bounded",
+    "editor.autoClosingDelete": "always",
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoClosingOvertype": "always",
+    "editor.autoIndent": "brackets",
+    "editor.autoSurround": "languageDefined",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultFormatter":"jeffjorczak.auto-translate-json",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.goToReferences",
+    "editor.guides.bracketPairs": true,
+    "editor.inlayHints.padding": true,
+    "editor.lightbulb.experimental.showAiIcon": "on",
+    "editor.linkedEditing": true,
+    "editor.semanticTokenColorCustomizations": {
+        "[Dark Pink]": {}
+    }
+}
